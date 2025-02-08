@@ -1,0 +1,20 @@
+* {
+  font-family: sans-serif;
+}
+.h1 {
+  font-family: cursive;
+}
+
+.resultado {
+  font-size: 1.1rem;
+}
+
+p {
+  font-size: 1.1rem;
+}
+.contar {
+  background-color: rgb(10, 82, 8);
+  color: antiquewhite;
+  padding: 0.4rem;
+  font-size: 1rem;
+}

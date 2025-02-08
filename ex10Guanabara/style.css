@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.h1 {
+  padding: 1rem;
+  font-family: cursive;
+}
+
+.resultado {
+  padding: 0.8rem;
+  font-size: 1.1rem;
+}
+
+.botao1, .botao2, .botao3, .botao4 {
+  padding: 20px;
+  font-size: 1.2rem;
+  margin: 0.5rem;
+}
+
+.botao1 {
+  background-color: rgb(255, 127, 80);
+}
+.botao2 {
+  background-color: rgb(80, 185, 255);
+}
+.botao3 {
+  background-color: rgb(130, 255, 80);
+}
+.botao4 {
+  background-color: rgb(205, 80, 255);
+}
+
+p {
+  padding: 0.2rem;
+}
